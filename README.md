@@ -1,4 +1,4 @@
-# real-world-vue
+# REAL WORLD Vue APP
 
 ## Project setup
 ```
